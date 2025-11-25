@@ -1,6 +1,6 @@
 = AsciiDoc kennenlernen
 
-Probiert die folgenden Formatierungen aus. Verwendet die Dokumentation (https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) die beiden Cheat Sheets, die Ordner `images` liegen.
+Probiert die folgenden Formatierungen aus. Verwendet die Dokumentation (https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) sowie die beiden Cheat Sheets, die im Ordner `images` liegen.
 
 * AsciiDoc Formatierungen
 * Listen
